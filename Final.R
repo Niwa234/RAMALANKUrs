@@ -11,7 +11,7 @@ library(rsconnect)
 library(forecast)
 
 #Membuat prefix untuk tempat menyimpan foto (khusus local)
-#addResourcePath(prefix = 'foto', directoryPath = 'D:/Univ/FEB/Sem 2/R Programming/Tugas/Final Project/R Program/Final Project/Final Result/foto')
+#addResourcePath(prefix = 'foto', directoryPath = 'D:Final Result/www')
 
 # Data untuk contoh
 
