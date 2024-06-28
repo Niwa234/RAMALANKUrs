@@ -1,3 +1,4 @@
+Program oleh kelompok Pro R kelas R Programming BR123. <br><br>
 Kode untuk menjalankan program ada pada file Final.R <br>
 Data yang dipakai ada di folder data <br>
 Gambar yang dipakai ada folder www <br>
